@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#imgGeral {
+    margin-top: 60px;
+    float: right;
+    margin-right: 100px;
+    width: 45%;
+    clear: both;
+    border: 1px solid red;
+}
+
+#texto {
+    float: left;
+    border: 1px solid red;
+    clear: both;
+    margin-bottom: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+
+/* #menu {
+    text-decoration: none;
+    font-style: none;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+} */
